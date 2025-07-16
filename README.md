@@ -13,8 +13,6 @@ Right now, I’m  focused on:
 - Web Development  
 - UI Design
 
-Always open to learning and exploring new tech and creative avenues.
-
 <hr>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=justWin01&theme=tokyonight&hide_border=true" height=175/>
