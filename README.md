@@ -18,7 +18,6 @@ Male | 21 years old
 📱 Social Media App — React Native + Flask backend
 
 🧠 Home & Furniture Shop – Affordable Furniture, Décor, and Household Essentials Web-Based
-
 🧠 ECL_MicroNet — E-Commerce
 
 <hr>
