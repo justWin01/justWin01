@@ -1,10 +1,10 @@
 <!-- Header -->
-<h1 align="center">👋 Welcome to My GitHub!</h1>
+<h1 align="center"> Welcome to My GitHub!</h1>
 <hr>
 
 ### 👤 **Sherwin Labe**  
 Male | 22 years old  
-🎓 IT Student | Aspiring Fullstack Developer
+🎓 IT Student | Aspiring Fullstack Developer | Networking
 
 <hr>
 
