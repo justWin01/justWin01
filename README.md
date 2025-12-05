@@ -15,10 +15,10 @@ Male | 22 years old
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=justWin01&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=justWin01&show_icons=true&theme=tokyonight&hide_border=true"
   />
 </p>
+
 
 ---
 
