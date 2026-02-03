@@ -39,12 +39,12 @@ Male | 22 years old
   <tbody>
     <tr>
       <td align="center">Flask, Node.js</td>
-      <td align="center">React, HTML/CSS, Tailwind</td>
+      <td align="center">React, Angular, Laravel, HTML/CSS, Tailwind</td>
       <td align="center">Unity, C#</td>
-      <td align="center">MySQL, Firebase, Vercel</td>
+      <td align="center">MySQL</td>
       <td align="center">Figma, Canva</td>
       <td align="center">Git, VS Code, Postman</td>
-      <td align="center">Python, JavaScript, C#</td>
+      <td align="center">Python, Java, C++, Php, Java</td>
     </tr>
   </tbody>
 </table>
