@@ -4,14 +4,14 @@
 
 ### 👤 **Sherwin Labe**  
 Male | 22 years old  
-🎓 IT Student | Aspiring Fullstack Developer | Networking
+ IT Student | Aspiring Fullstack Developer | Networking
 
 <hr>
 
-### 🛠️ **Currently sharpening my skills in:**
+###  **Currently sharpening my skills in:**
 
-🌐 Web Development  
-🎨 UI/UX Design  
+ Web Development  
+ UI/UX Design  
 
 <p align="center">
   <img 
@@ -22,7 +22,7 @@ Male | 22 years old
 
 ---
 
-## 🧰 **Tech Stack**
+##  **Tech Stack**
 
 <table align="center">
   <thead>
@@ -51,20 +51,20 @@ Male | 22 years old
 
 <hr>
 
-## 🚧 **Current Projects**
+##  **Current Projects**
 
-📱 **Social Media App** — React Native + Flask backend  
-🧠 **Home & Furniture Shop** — Affordable Furniture, Décor, and Essentials  
-🧠 **ECL_MicroNet** — E-Commerce Web App  
+ **Social Media App** — React Native + Flask backend  
+ **Home & Furniture Shop** — Affordable Furniture, Décor, and Essentials  
+ **ECL_MicroNet** — E-Commerce Web App  
 
 <hr>
 
-## 🎓 **Education**
+##  **Education**
 
-🏫 Bachelor of Science in Information Technology  
+ Bachelor of Science in Information Technology  
 **Legacy College of Compostela**
 
-📚 CS50's Web Programming  
+ CS50's Web Programming  
 **Harvard University (edX)**  
 
 <hr>
