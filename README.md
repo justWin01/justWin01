@@ -53,8 +53,6 @@ Male | 22 years old
 
 ##  **Current Projects**
 
- **Social Media App** — React Native + Flask backend  
- **Home & Furniture Shop** — Affordable Furniture, Décor, and Essentials  
  **ECL_MicroNet** — E-Commerce Web App  
 
 <hr>
