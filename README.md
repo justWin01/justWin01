@@ -53,7 +53,7 @@ Male | 22 years old
 
 ##  **Current Projects**
 
- **ECL_MicroNet** — E-Commerce Web App  
+ **ECL_MicroNetwork&DataSolutions** — Service Web Site
 
 <hr>
 
