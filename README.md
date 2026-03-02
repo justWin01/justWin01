@@ -2,7 +2,7 @@
 <h1 align="center"> Welcome to My GitHub!</h1>
 <hr>
 
-### 👤 **Sherwin Labe**  
+###  **Sherwin Labe**  
 Male | 22 years old  
  IT Student | Aspiring Fullstack Developer | Network Installation & Configuration
 
