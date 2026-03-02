@@ -29,7 +29,6 @@ Male | 22 years old
     <tr>
       <th align="center">🔧 Backend</th>
       <th align="center">🎨 Frontend</th>
-      <th align="center">🕹 Game Dev</th>
       <th align="center">🗄 DB / Hosting</th>
       <th align="center">🎭 Asset Creation</th>
       <th align="center">🛠 Other Tools</th>
