@@ -13,11 +13,6 @@ Male | 22 years old
  Web Development  
  UI/UX Design  
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=justWin01&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-</p>
 
 
 ---
