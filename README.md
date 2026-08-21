@@ -11,6 +11,7 @@ Male | 22 years old
 ###  **Currently sharpening my skills in:**
 
  Web Development  
+ Network Configuration
  UI/UX Design  
 
 
