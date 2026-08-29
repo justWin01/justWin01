@@ -4,7 +4,7 @@
 
 ###  **Sherwin Labe**  
 Male | 22 years old  
- IT Student | Aspiring Fullstack Developer | Network Installation & Configuration
+ IT Student | Aspiring Fullstack Developer | Network Configuration | Arduino
 
 <hr>
 
