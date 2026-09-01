@@ -8,7 +8,7 @@ Male | 22 years old
 
 <hr>
 
-###  **Currently sharpening my skills in:**
+###  **Currently Enhancing my skills in:**
 
  Web Development  
  Network Configuration <br>
